@@ -1,0 +1,16 @@
+# Ignore specific generated / large directories
+/gt_results/
+/gt__results/
+/test_en_results/
+/test_results/
+/weights/
+/dataset/data/aitodv2/
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*.pth
+.env
+
+# VS Code
+.vscode/
